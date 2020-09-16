@@ -8,11 +8,11 @@
 
 import os
 import random
-import extract_class
-from extract_class import abs_path
-from extract_class import new_dir
-from extract_class import args
-from extract_class import extract_class
+import image_annotation_extractor
+from image_annotation_extractor import abs_path
+from image_annotation_extractor import new_dir
+from image_annotation_extractor import args
+from image_annotation_extractor import extract_class
 
 # Run extract_class function for extracting images and annotation files
 extract_class()
